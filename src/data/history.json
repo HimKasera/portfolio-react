@@ -1,0 +1,27 @@
+[
+  {
+    "role": "Blockchain Researcher",
+    "organisation": "IMMRC-2024 NATIONAL CONFERENCE",
+    "startDate": "19thApr, 2024",
+    "endDate": "20thApr, 2024",
+    "experiences": ["Blockchain-Enabled Certificate Verification Systems: Developing Revenue Models for Sustainability" ,"Explore and research knowledge in related to blockchain technology."],
+    "imageSrc": "history/blockchain.png"
+    
+     },
+  {
+    "role": "Participated",
+    "organisation": "Hackfest'24 (SAP)",
+    "startDate": "Apr, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Secured a spot among the top 10 teams out of over 50 in the regional round!", "I’ve added experience with React.js and MySQL, while also further improving my graphic design skills."],
+    "imageSrc": "history/sap75.png"
+  }, {
+    "role": "Participated",
+    "organisation": "SIH 2023",
+    "startDate": "Sept, 2023",
+    "endDate": "Nov 2023",
+    "experiences": ["Achieved a top 20 finish out of over 200 teams in the SIH internal hackathon 2023.","My role involves front-end development, designing the project, and learning blockchain concepts to enhance our project's functionality."],
+    "imageSrc": "history/sih230.png"
+  }
+  
+]

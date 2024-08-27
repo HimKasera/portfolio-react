@@ -1,0 +1,34 @@
+[{
+  "title": "My Portfolio",
+  "imageSrc": "projects/MyPortfolio.png",
+  "description": "Crafted a dynamic portfolio leveraging HTML, CSS, JavaScript, JSX, and JSON, showcasing a blend of interactive design and efficient data handling for a standout, engaging web presence.",
+  "skills": ["JSX", "HTML", "CSS"],
+  "demo": "https://www.example.com",
+  "source": "https://www.github.com"
+},
+  {
+    "title": "Blockchain based certificate generation system",
+    "imageSrc": "projects/Blockchain.png",
+    "description": "Integrated Web3.js for blockchain transactions and automated certificate generation, enhancing verification efficiency for governments and organizations.",
+    "skills": ["React", "Ethereum", "JavaScript","Web3"],
+    "demo": "https://youtu.be/41cMm7OIOTA?si=JiQEU3S5ij5y7HM4",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Virtual Assistant",
+    "imageSrc": "projects/python.png",
+    "description": "Created a voice-controlled assistant with Python that provides time updates, searches Wikipedia, opens websites, and sends emails using SpeechRecognition for accurate voice command processing.",
+    "skills": ["Python", " pyttsx3", "smtplib", "GitHub"],
+    "demo": "https://github.com/HimKasera/virtual-assistantance-HimKasera/blob/main/ai.py",
+    "source": "https://github.com/HimKasera/virtual-assistantance-HimKasera/blob/main/ai.py"
+  },
+  {
+    "title": "Virtual Assistant",
+    "imageSrc": "projects/Calculator.png",
+    "description": "Designed a responsive calculator UI with CSS, featuring Flexbox and Grid for layout, a sky-blue container, styled buttons with hover effects, and a centered, visually appealing interface.",
+    "skills": ["HTML", "CSS", "JavaScript", "GitHub"],
+    "demo": "https://calculatorhim.netlify.app/",
+    "source": "https://github.com/HimKasera/virtual-assistantance-HimKasera/blob/main/ai.py"
+  }
+  
+]
